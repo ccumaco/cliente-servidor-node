@@ -19,3 +19,22 @@ Este es un chat en tiempo real desarrollado con Node.js y Socket.IO. Permite la 
 git clone <URL_DEL_REPOSITORIO>
 cd chat-websocket
 ```
+
+## 2️⃣ Instalar dependencias del backend
+
+```sh
+cd backend
+npm install
+```
+
+## 3️⃣ Ejecutar el servidor
+
+```sh
+node server.js
+```
+
+Esto iniciará el servidor en http://localhost:3000.
+
+## 4️⃣ Abrir el frontend
+
+Abre el archivo frontend/index.html en tu navegador.
